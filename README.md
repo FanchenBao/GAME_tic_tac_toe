@@ -1,6 +1,7 @@
 # GAME_tic_tac_toe
 A simple tic tac toe game on console
 
+_Created after reading Chapter 5 of "Automate the Boring Stuff"._
 * Game shall be played between two players with independent input capabilities.
 * A tic tac toe board is displayed at each player's turn.
 * Player enter a valid command to input either 'O' or 'X' onto the board.
